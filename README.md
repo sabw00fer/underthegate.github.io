@@ -172,4 +172,4 @@ systemctl restart xray
 ```
 systemctl restart xray
 ```
-Если Active: `active (running)`, значит все ок
+Если Active: `active (running)`, значит все ок.
